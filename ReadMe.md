@@ -11,7 +11,7 @@ The presentation which was a preliminary version of our project.
 The Stata Do Files which is my analysis.
 The final paper which was submitted for the course.
 
-## Acknowledgments:
+#### Acknowledgments:
 
 Hagop Tashjian, the love of my life, thank you for supporting me through my education in Canada. I have huge appreciation for your proofreading and efforts in understanding my paper.
  

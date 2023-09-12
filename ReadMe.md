@@ -8,13 +8,13 @@ The data is from a household survey collected by Dr. Nisreen Salti et al. (2022)
 
 The files in this repository are as follows:
 
-- A progress report to share our idea.
+- ProgressReport_LA: A progress report to share our topic.
 
-- The presentation which was a preliminary version of our project.
+- SummerPres_LA: The presentation which was delivered to the class and was a preliminary version of our project.
 
-- The Stata Do Files which is my analysis.
+- StataDoFiles: The Stata Do Files which is my analysis.
 
-- The final paper which was submitted for the course.
+- Paper_LA: The final paper which was submitted to meet the course requirements.
 
 
 

@@ -6,10 +6,17 @@ In a nutshell, I use a Regression Discontinuity Design to study the impact of a 
 The data is from a household survey collected by Dr. Nisreen Salti et al. (2022) on July/August 2019. A huge shoutout and thank you for making this possible.
 
 The files in this repositoru are as follows:
+
 A progress report to share our idea.
+
 The presentation which was a preliminary version of our project.
+
 The Stata Do Files which is my analysis.
+
 The final paper which was submitted for the course.
+
+
+
 
 #### Acknowledgments:
 

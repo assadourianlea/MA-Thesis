@@ -5,15 +5,15 @@ So this is my masters paper which was supervised by Dr. Thomas Lemieux.
 In a nutshell, I use a Regression Discontinuity Design to study the impact of a multi-purpose cash transfers on the Mental Health and Intra-Household Decision Making of for Syrian refugee households in Lebanon.
 The data is from a household survey collected by Dr. Nisreen Salti et al. (2022) on July/August 2019. A huge shoutout and thank you for making this possible.
 
-The files in this repositoru are as follows:
+The files in this repository are as follows:
 
-A progress report to share our idea.
+   A progress report to share our idea.
 
-The presentation which was a preliminary version of our project.
+   The presentation which was a preliminary version of our project.
 
-The Stata Do Files which is my analysis.
+   The Stata Do Files which is my analysis.
 
-The final paper which was submitted for the course.
+   The final paper which was submitted for the course.
 
 
 

@@ -11,7 +11,12 @@ The presentation which was a preliminary version of our project.
 The Stata Do Files which is my analysis.
 The final paper which was submitted for the course.
 
-Acknowledgments:
-Hagop Tashjian, the love of my life, thank you for supporting me through my education in Canada. I have huge appreciation for your proofreading and efforts in understanding my paper. 
+## Acknowledgments:
+
+Hagop Tashjian, the love of my life, thank you for supporting me through my education in Canada. I have huge appreciation for your proofreading and efforts in understanding my paper.
+ 
 Alexandra Irani and Rima Al Mokdad, thank you for sparking my research interests in Economics and introducing me to the world of cash transfers.
+
 Dr. Wael Moussa, thank you for being available when I needed help in brainstorming my topic.
+
+Shoutout to my classmates, we did it.

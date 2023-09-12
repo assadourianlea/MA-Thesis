@@ -29,41 +29,6 @@ replace newscore=score2018-66.1 if region==3
 
 
 
-
-/*Generating the wave-region specific cutoffs and standardized scores 
-
-	forval y=2017/2018 {
-		gen nscore`y' = .
-		gen cut`y' = .
-		forval w=1/3 {
-			forval g=1/3 {
-				di "`y'; wave=`w'; region=`g'"
-				if `y'==2018 & `w'==1 local bla "bla"
-				else {
-					preserve
-						collapse (mean) mpc`y' if hoh==1 & wave==`w' & region==`g', by(score`y')
-						egen t = seq()
-						qui regress mpc`y' score`y'
-						qui tsset t
-						qui estat sbsingle
-						local r = r(breakdate)
-						qui sum score`y' if t==`r'
-						local cut`y'`w'`g' = r(mean)
-					restore
-					replace nscore`y' = score`y' - `cut`y'`w'`g'' if wave==`w' & region==`g' & nscore`y'==.
-					replace cut`y' = (nscore`y'<0) if wave==`w' & region==`g' & cut`y'==.
-					*******************************************************************************************
-				}
-			}
-		}
-	}
-*/
-
-
-
-
-
-
 /* MENTAL HEALTH INDEX
 foreach x of varlist hea22 hea23 hea24 hea25 hea26 srh	{
 replace `x'=. if `x'==88 | `x'==99
